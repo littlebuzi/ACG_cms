@@ -14,31 +14,33 @@
 > 3.mysql<br>
 > 4.wampserver<br>
 
-# 首页1
+# 图片
+
+> 首页1
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/首页1.PNG)
 
-# 首页2
+> 首页2
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/首页2.PNG)
 
-# 目录分类
+> 目录分类
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/目录分类.PNG)
 
-# 登录注册
+> 登录注册
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/登录注册.PNG)
 
-# 文章
+> 文章
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/文章.PNG)
 
-# 排行版
+> 排行版
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/排行版.PNG)
 
-# 手机版
+> 手机版
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/手机版.png)
 
