@@ -17,23 +17,23 @@
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/首页2.PNG)
 
-# 目录分类.PNG
+# 目录分类
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/目录分类.PNG)
 
-# 登录注册.PNG
+# 登录注册
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/登录注册.PNG)
 
-# 文章.PNG
+# 文章
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/文章.PNG)
 
-# 排行版.PNG
+# 排行版
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/排行版.PNG)
 
-# 手机版.png
+# 手机版
 
 ![](https://github.com/littlebuzi/Quadratic_element/blob/master/手机版.png)
 
